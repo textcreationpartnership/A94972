@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect relation of the tryall, condemning, and executing of the 24. prisoners, who suffered for severall robberies and burglaries at Tyburn on Fryday last, which was the 29. of this instant Iune, 1649. Expressing the penitent end of the said prisoners, the grief of the many thousands there, and the speech of Iohn Mercer (who was there executed) concerning unity in this Kingdom, and the bringing home and setling of the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94972</idno>
+            <idno type="STC">Wing T2569</idno>
+            <idno type="STC">Thomason E562_24</idno>
+            <idno type="STC">ESTC R206139</idno>
+            <idno type="EEBO-CITATION">99865316</idno>
+            <idno type="PROQUEST">99865316</idno>
+            <idno type="VID">165243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94972)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165243)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E562[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect relation of the tryall, condemning, and executing of the 24. prisoners, who suffered for severall robberies and burglaries at Tyburn on Fryday last, which was the 29. of this instant Iune, 1649. Expressing the penitent end of the said prisoners, the grief of the many thousands there, and the speech of Iohn Mercer (who was there executed) concerning unity in this Kingdom, and the bringing home and setling of the King.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials (Robbery) --  England --  Early works to 1800.</term>
+               <term>Trials (Burglary) --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165243:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 40 -->
+            <p>A true and perfect RELATION OF THE Tryall, Condemning, and executing of the 24. Priſo<g ref="char:EOLhyphen"/>ners, who ſuffered for ſeverall Robberies and Burglaries at <hi>Tyburn</hi> on <hi>Fryday</hi> laſt, which was the 29. of this inſtant <hi>Iune,</hi> 1649. Expreſſing the penitent end of the ſaid Priſoners, the grief of the many Thouſands there, and the Speech of <hi>Iohn Mercer</hi> (who was there executed) concerning Unity in this Kingdom, and the bringing home and ſetling of the <hi>King.</hi>
+            </p>
+            <figure>
+               <p>
+                  <date>
+                     <add>July 3<hi rend="sup">d</hi>
+                     </add>
+                  </date>
+               </p>
+               <figDesc>man executed on the gallows</figDesc>
+            </figure>
+            <p>LONDON, <hi>Printed for</hi> G.R. <hi>in the Year</hi> 1649.</p>
+            <pb facs="tcp:165243:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165243:3"/>
+            <!-- PDF PAGE 42 -->
+            <pb n="1" facs="tcp:165243:3"/>
+            <!-- PDF PAGE 42 -->
+            <head>A true and perfect Relation of the Tryall, condemning, and executing of thoſe <hi>24.</hi> Priſoners, who ſuffered at <hi>Tiburne on</hi> 
+               <date>
+                  <hi>Fryday</hi> the 29, of <hi>June. 1649.</hi>
+               </date>
+            </head>
+            <p>THe robbery of the wicked ſhall deſtroy them. <hi>Proverbs</hi> 11.7. But juſtice is the pil<g ref="char:EOLhyphen"/>lar of the State, the Queene of vertues, and the Empreſſe of Human ſociety; without it men could not live one by another; neither durſt the Father truſt the ſon, the ſon the Father nor a faithfull friend his ſeeming cordiall friend, ſo depraved is the condition of man, in this Iron age, when ſcarcely a man can travell in the day time, much leſſe in the night with a white rod (as formerly) and a charge of money, but muſt be ſtrongly guarded with company, otherwiſe he ſhall loſe his mony, and what is worth any thing; if he fortunately eſcape with his life; our honourable Iudg<g ref="char:EOLhyphen"/>es judiciouſly taking into conſideration, moſt maturely condemned theſe following, being Indited upon ſeverall robberies, and Burglaries at the quarter Seſſions laſt, hol<g ref="char:EOLhyphen"/>den in the <hi>Old Bayly</hi> in <hi>London</hi> for the County of <hi>Middle<g ref="char:EOLhyphen"/>ſex,</hi> and City of <hi>London.</hi> And their thoſe moſt honoura<g ref="char:EOLhyphen"/>ble Judges remembred that their office was not <hi>Jus dicere</hi> but <hi>Jus dare,</hi> to interprit Law, and to make Law, or give Law; they then ſhowed themſelves more learned then witty, more reverend then plauſible, and more adviſed then raſh; all concluding with the laſt of the twelve <hi>Ro<g ref="char:EOLhyphen"/>man</hi>
+               <pb n="2" facs="tcp:165243:4"/>
+               <!-- PDF PAGE 43 -->Tables <hi>Salus populi ſuprema lex,</hi> The good of the peo<g ref="char:EOLhyphen"/>ple is the cheifeſt Law; which this Nation cannot but take notice of, applauding the wiſdom of ſuch grave per<g ref="char:EOLhyphen"/>ſons, and hartily deſiring that each Circuite of this Com<g ref="char:EOLhyphen"/>mon wealth may be furniſhed with ſuch worthy Patri<g ref="char:EOLhyphen"/>ots, that ſo thoſe who are <hi>ex lex</hi> without Law, and would turne all to a Community, not reſpecting either the peace of this State, or quiet mens peculiar proprieties, may be took away, for
+<q xml:lang="lat">
+                  <l>Immedic<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bile vulnus</l>
+                  <l>Enſe recidendum eſt, ne pars ſincera trahatur.<note place="margin">
+                        <bibl>Ovid Meta.</bibl>
+                     </note>
+                  </l>
+               </q>
+               <q>
+                  <l>The cureleſſe wound</l>
+                  <l>Juſtice muſt cut, leaſt it infect the ſound.</l>
+               </q>
+            </p>
+            <p>Yet they went not ſo ſeverely to wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke, but that they had an eye of pitty to thoſe whom the Law would pardon as not hating the perſons, but the vice in the perſons, not reſpecting the pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſon, but judging according to their ſe<g ref="char:EOLhyphen"/>verall treſpaſſes; For neither partiall aff<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ction to the men, love of mony, feare, nor envy, incited them to pardon, or defe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r'd them to pronounce the finall ſentence againſt them, which was muſt bravel with commiſſeration pro<g ref="char:EOLhyphen"/>nounced to them on <hi>Wedneſday</hi> laſt being the 27. of <hi>Iune,</hi> at the Seſſions houſe in the <hi>Old Bayly,</hi> from whence they were brought back unto <hi>Newgate,</hi> where a Miniſter ap<g ref="char:EOLhyphen"/>pointed, exhorted them to provide themſelves for ano<g ref="char:EOLhyphen"/>ther world, ſince the Lord had appointed a period to their lives in this. And they like penitent Chriſtians did ſo.</p>
+            <p>On <hi>Fryday</hi> Morning about nine of the clock, they were tied in 8. carts and at St. <hi>Sepulchres</hi> Church the Sexton according to the uſuall cuſtome, ringing his Bell made a ſhort ſpeech unto them. Firſt, expreſſing their ſuffering according unto Law, then inciting them to call on Chriſt
+<pb n="3" facs="tcp:165243:4"/>
+               <!-- PDF PAGE 43 -->Jeſus; and Deſiring the people to pray for their ſoules; which being ended the carts were drave unto <hi>Tiburne</hi> the Fatall place of execution, where <hi>William Lowen</hi> the new <hi>Hangman</hi> faſtned eight of them unto each Triangle, their was not much ſaid as in relation to confeſſion of any other thing, then what they were condemn'd for by any of them only <hi>Iohn Mercer</hi> a young man deſiring audience ſpake to this effect as fo loweth,</p>
+            <p>How that he was Indicted for murther and Burglary, (but took on his death, that he was not guilty of any murther; And then ſpake to the people, ſaying, <hi>Pray for the proſperity of Jeruſalem, let them proſper that love it,</hi> Pray (ſaid he) for the peace of this kingdom; let men love their vvives, Women their Husbands, one neighbour another, let concord and Unitie be your deſires, embrace them as the cheifeſt good, for vvithout them their can be no hap<g ref="char:EOLhyphen"/>pines on earth, or beatitude hereafter; for in diſcord their is nothing but diſſentions ariſe, which being ſovvne like tares diſturbe an ſpoile the beſt cropp and moſt mature Councells. For you ſouldiers be ſure you fight the Lords battells, and the Almighty God vvill be vvith you, and follovv you, ſo that no doubt but ſucceſs ſhall attend you here, peace to this miſerable Kingdom, and glory to your ſelvs hereafter; But the only vvay to ſtop that vein vvhich is already bleeding, and to give an Antidote againſt future miſeries vvhich already threaten to invade this diſtreſſed Kingdom, is to pray for the peace of this City, this King<g ref="char:EOLhyphen"/>dom, &amp; to bring your King home, vvithout vvhom their is no likelihood of peace o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſettlement; for already the ſvvord is half dravvn out, but Woe be unto this already vvounded Nation, if the Almighty ſhould take it quite forth inſtead of ſheathing it.</p>
+            <p>
+               <pb n="4" facs="tcp:165243:5"/>
+               <!-- PDF PAGE 44 -->
+Which being ended, the people wiſhed him to pray for his own ſoule, which he with all the reſt of the condemned moſt fervently did, as alſo chearfully ſinging a Pſalme, and then the Miniſter ſpake unto them, to call moſt earneſtly upon their Saviour, which with eyes and hands upward to the Heavens, they generally perfor<g ref="char:EOLhyphen"/>med with ſuch lamentable voices and mourn<g ref="char:EOLhyphen"/>ing, that it moved the many thouſands of people there a farre off, to pray lamentingly with them, and to eccho forth when the Carts were drawn away: Lord have mercy on their ſoules.</p>
+            <p>Thus gentle Reader, you have the true Rela<g ref="char:EOLhyphen"/>tion of the untimely end of 23. Men, and one Woman, condemned by the Law; wherein that great multitude which were then at Tyburn, may take occaſion ſtill to call to the Almighty for grace, without which they will be left unto themſelves, as theſe ſufferers were, and all others may learne, not to rely upon themſelves but on the ſtrength of Chriſt Jeſus: For the Devill either by ignorance or inſolence, will ſtill be in<g ref="char:EOLhyphen"/>ſiting man unto ſin: And there are three degrees of ſin, ſuggeſtion, delectation, and conſent, ſug<g ref="char:EOLhyphen"/>geſtion is the ſeed, delectation the nouriſh<g ref="char:EOLhyphen"/>ment,
+<pb n="5" facs="tcp:165243:5"/>
+               <!-- PDF PAGE 44 -->and conſent the accompliſhment: And then Lawes muſt be in force, for good Lawes without execution, are like the picture of St. GEORGE, alwayes with his weapons up, but never ſtriking.</p>
+            <p>And thoſe who begin to follow theſe Life-bereaving ways but for a time, and then intend to leave them of, let them know that
+<q xml:lang="lat">
+                  <l>Nemo repente fuit turpiſsimus.<note place="margin">
+                        <bibl>Jurenal. Satyr. 2.</bibl>
+                     </note>
+                  </l>
+               </q>
+               <q>
+                  <l>None on the ſuddain riſe to the height of ill.</l>
+               </q>
+            </p>
+            <p>But when they once entertain ſuch evill wayes, they are not ſo ſoone left of, as it is eaſi<g ref="char:EOLhyphen"/>er not to admit an uncivill gueſt then to turn him out, ſo is it more facile to deſtroy ſin in the embrio, then when it is come to maturi<g ref="char:EOLhyphen"/>ty; for Cuſtome hardeneth, and draweth with ſecurity the lives of many to their untimely end: And thus not to reſtrain evill, is to maintain e<g ref="char:EOLhyphen"/>vill, and want of puniſhment is the encourage<g ref="char:EOLhyphen"/>ment thereof; Therefore the Almighty faith, Deut. 1.17. <hi>Ye ſhall not reſpect judgment in perſons.</hi> And why but becauſe as the <hi>Pſalmiſt</hi> ſaith, <hi>Pſal.</hi> 33.5. <hi>He loveth righteouſneſs and judgment,</hi> which let all lay unto heart, and aſſure themſelves, that although they commit their wickedneſs ſecretly, yet there ſhall come a time when God will inſlict pun<g ref="char:EOLhyphen"/>iſhment
+<pb facs="tcp:165243:6"/>
+               <!-- PDF PAGE 45 -->on them, which the Poet could take no<g ref="char:EOLhyphen"/>tice of when he ſaid
+<q xml:lang="lat">
+                  <l>Raro anticedentem ſceleſtum</l>
+                  <l>Deſeruit pede paena claudo.<note place="margin">
+                        <bibl>Horrat.</bibl>
+                     </note>
+                  </l>
+               </q>
+               <q>
+                  <l>Seldom the villaine, though much haſt he make</l>
+                  <l>Lame footed vengance ſeeme to overtake.</l>
+               </q>
+            </p>
+            <p>And the Scripture verifies the ſame in many places, therefore to deferre all our ſoules from theſe regnant ſins, let us lay before our eyes, the untimely death of men thus ſuffering; the ſtaine upon their memories, which time cannot blot out, the grief of their woful Parents, Wives and Children, the ſhame of their kindred, ac<g ref="char:EOLhyphen"/>quaintance and friends; with the loſs of their precious ſoules for eternity. For Numb. 32.23. <hi>Be ſure your ſin ſhall find you out, and except ye repent, ye ſhall all periſh.</hi>
+            </p>
+            <p>The Names of the 23. Men, and one Woman, who were executed at <hi>Tyburne</hi> 
+               <date>the 29. of <hi>June,</hi> 1649.</date>
+               <list>
+                  <item>Thomas Smith</item>
+                  <item>William Moreton</item>
+                  <item>John Mer<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cer</item>
+                  <item>John Blymvell</item>
+                  <item>Henry Woodes</item>
+                  <item>Robert Everet</item>
+                  <item>Hamlet Childe</item>
+                  <item>William Burre</item>
+                  <item>Ralph Harriſon</item>
+                  <item>George Brown</item>
+                  <item>Joſeph Rogers</item>
+                  <item>Thomas Whiting.</item>
+                  <item>Thomas Trodd</item>
+                  <item>Iohn Carter</item>
+                  <item>Henry Pate</item>
+                  <item>Nathaniel Biſhop</item>
+                  <item>Francis Swayte</item>
+                  <item>Edward Minſon</item>
+                  <item>Roger Dounes</item>
+                  <item>Rowland Bateman</item>
+                  <item>Richard Broadwater</item>
+                  <item>Thomas Crooke</item>
+                  <item>George Hewlet</item>
+                  <item>Mary Iones.</item>
+               </list>
+            </p>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:165243:7"/>
+            <!-- PDF PAGE 46 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
